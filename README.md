@@ -20,12 +20,11 @@ To initialize your local repository using the Project Kitkat trees, use this com
 
 for google, exynos and non qcom devices:
 
-	repo init -u git://github.com/AORP/platform_manifest.git -b kk4.4
-
+	repo init -u git://github.com/AORP/platform_manifest.git -b kk-aosp
 
 for qcom devices which are using CodeAuroraForum trees:
 
-	repo init -u git://github.com/AORP/platform_manifest.git -b kk4.4-caf
+	repo init -u git://github.com/AORP/platform_manifest.git -b kk
 
 
 
