@@ -265,7 +265,7 @@
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/uiautomator" name="platform/frameworks/uiautomator" />
   <project path="frameworks/volley" name="platform/frameworks/volley" />
-  <project path="frameworks/webview" name="AORP/android_frameworks_webview" remote="github" revision="cm-11.0" />
+  <project path="frameworks/webview" name="AORP/frameworks_webview" remote="github" revision="cm-11.0" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="SlimRoms/hardware_broadcom_libbt" remote="github" revision="kk4.4" />
@@ -433,7 +433,7 @@
   <project path="platform_manifest" name="AORP/platform_manifest" remote="github" revision="kk" />
 
   <!-- New Additions for AORP -->
-  <project path="vendor/slim" name="AORP/vendor_slim" remote="github" revision="kk4.4" />
+  <project path="vendor/slim" name="AORP/rebel_vendor_slim" remote="github" revision="kk4.4" />
 
   <!-- Slim OTA -->
   <project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" remote="github" revision="kk4.4" />
